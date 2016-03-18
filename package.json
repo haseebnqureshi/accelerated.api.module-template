@@ -1,5 +1,5 @@
 {
-  "name": "accelerated.api.module",
+  "name": "accelerated.api.module-template",
   "version": "1.0.0",
   "description": "Module template for accelerated.api.",
   "main": "index.js",
@@ -9,13 +9,13 @@
   "author": "Haseeb Qureshi <haseeb.n.qureshi@gmail.com> (http://twitter.com/_hq)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haseebnqureshi/accelerated.api.module.git"
+    "url": "git+https://github.com/haseebnqureshi/accelerated.api.module-template.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/haseebnqureshi/accelerated.api.module/issues"
+    "url": "https://github.com/haseebnqureshi/accelerated.api.module-template/issues"
   },
-  "homepage": "https://github.com/haseebnqureshi/accelerated.api.module#readme",
+  "homepage": "https://github.com/haseebnqureshi/accelerated.api.module-template#readme",
   "dependencies": {
     "underscore": "^1.8.3"
   }
