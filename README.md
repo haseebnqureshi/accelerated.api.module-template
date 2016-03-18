@@ -1,6 +1,16 @@
 
 ## Quick Start
-This repo is an easy-to-use npm template to create modules for accelerated.api. Simply clone this repo and:
+This repo is an easy-to-use npm template to create modules for accelerated.api. Start by simply cloning this repo and updating your git remote origin:
+
+1. Clone the template to your directoy with ```git clone https://github.com/haseebnqureshi/accelerated.api.module-template.git ./{YOUR_DIRECTORY}```;
+
+2. Remove the existing project's git origin with ```git remote remove origin```;
+
+3. Add your git origin with ```git remote add origin {YOUR_REPOSITORY_URL}```;
+
+4. And then push the codebase up to your git repo with ```git push -u origin master```.
+
+You're ready for some changes! Then in your new directory and git repo, do the following:
 
 1. Change your ```moduleKey``` and ```moduleName``` in index.js. (```moduleKey``` is a key that uniquely identies your module in the context of your app.)
 
